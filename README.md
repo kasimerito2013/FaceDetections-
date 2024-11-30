@@ -27,6 +27,7 @@ The network consists of 3 convolution layers
 **Training parameters**
 
 The network was trained with TensorFlow's AdamOptimzer 
+
     
     lrate: 1e-4
     epsilon: 1e-16
@@ -66,3 +67,5 @@ Demos with other images can be seen here: https://youtu.be/N4GIGVnyNBo
 
 Output of demo.py:
 ![Alt text](demo_result.png?raw=true)
+
+futuros cambios
